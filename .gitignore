@@ -1,0 +1,13 @@
+# Ignore the secret keys
+.env
+backend/.env
+
+# Ignore Python cache files (junk)
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.venv/
+
+frontend/config.js
